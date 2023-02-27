@@ -1,5 +1,5 @@
 ---
-abstract: Abstract for vape paper.
+abstract: Abstract for WIC paper.
 # author_notes:
 # - Equal contribution
 # - Equal contribution
@@ -23,7 +23,7 @@ publishDate: "2022-05-01T00:00:00Z"
 summary: Short summary of vape paper.
 tags:
 - Papers
-title: The Impact of E-cigarette Regulation on Tobacco Consumption, Addiction, and Health
+title: Demand Spillover and Sole-Source Contracting in the WIC Program
 # url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 # url_dataset: '#'
 # url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4161975

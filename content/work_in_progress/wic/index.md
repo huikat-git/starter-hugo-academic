@@ -20,7 +20,7 @@ publication_types:
 - "0"
 publishDate: "2022-05-01T00:00:00Z"
 # slides: example
-summary: Short summary of vape paper.
+summary: Short summary of WIC paper.
 tags:
 - Papers
 title: Demand Spillover and Sole-Source Contracting in the WIC Program

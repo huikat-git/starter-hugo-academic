@@ -197,14 +197,26 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: card
   - block: collection
     id: featured
+    # id: work_in_progress
     content:
-      title: Featured Publications
+      title: Work in Progress
       filters:
         folders:
           - publication
-        featured_only: true
+        exclude_featured: true
     design:
       columns: '2'
       view: card

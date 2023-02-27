@@ -215,7 +215,7 @@ sections:
       title: Work in Progress
       filters:
         folders:
-          - publication
+          - work_in_progress
         exclude_featured: true
     design:
       columns: '2'

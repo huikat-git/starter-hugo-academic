@@ -14,7 +14,7 @@ featured: false
 #   focal_point: ""
 #   preview_only: false
 projects: []
-publication: 'Work in Progress'
+publication: 'Publication'
 publication_short: ""
 publication_types:
 - "0"

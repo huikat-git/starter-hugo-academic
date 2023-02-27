@@ -211,7 +211,7 @@ sections:
     # id: featured
     id: work_in_progress
     content:
-      title: Research
+      title: Work in Progress
       filters:
         folders:
           - work_in_progress

@@ -79,4 +79,5 @@ email: ''
 highlight_name: true
 ---
 
-Welcome! I am a PhD Candidate in Economics at the University of Pennsylvania. I study topics in health economics using tools from industrial organization.{style="text-align: justify;"}
+Welcome! I am a PhD Candidate in Economics at the University of Pennsylvania. I study topics in health economics using tools from industrial organization.
+# {style="text-align: justify;"}

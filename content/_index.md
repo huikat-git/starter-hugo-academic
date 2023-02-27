@@ -260,7 +260,7 @@ sections:
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: Perelman Center of Political Science and Economics\n 133 S 36th St
+        street: Perelman Center of Political Science and Economics, 133 S 36th St
         city: Philadelphia
         region: PA
         postcode: '19104'
